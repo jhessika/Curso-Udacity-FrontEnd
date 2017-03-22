@@ -1,0 +1,209 @@
+* {
+    border: 1px solid red !important;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background: url("../imgs/bac.jpg");
+    background-size: 180px;
+    margin: 0px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+@media only screen and (max-width: 300px) {
+    p {
+        background-color: blue;
+    }
+}
+
+.resenha {
+    color: white;
+}
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+    border: 1px solid #c0c0c0;
+    background-color: white;
+}
+
+.name {
+    padding-right: 0px;
+    text-align: center; 
+
+}
+.menu {
+    list-style-type: none;
+    position: relative;
+    text-align: center;
+    color: darkgray;
+    font-size: 10px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+
+}
+.menu li {
+    float: none;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    background: #fff;
+    padding: 15px 25px;
+}
+.menu li:after {
+    position: relative;
+    float: right;
+    content: '•';
+    font-size: 25px;
+    line-height: 15px;
+    padding: 0 15px;
+    color: #3fead4;
+}
+.sub-menu {
+    list-style-type: none;
+}
+.row {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.botao{
+    width: 60px;
+    height: 52px;
+    margin-top: 10px
+}
+
+.pesquisa{
+    margin-top: 20px;
+}
+
+.black-box{
+    background-color: black;
+    min-height: 360px;
+    text-align: center;
+}
+
+.black-box h1 {
+    color: white;
+}
+
+.minha-foto{}
+.destaque{}
+.slide{}
+.foto{
+    border-radius: 50%;
+    background-image: url("../imgs/je.jpg");
+    width: 299px;
+    height: 200px;
+}
+
+.rodape {
+    background: #eaeaea;
+    min-height: 180px;
+}
+.rodape .row {
+    margin-bottom: 0px;
+}
+/*.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+*/

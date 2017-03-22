@@ -1,0 +1,26 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Novas habilidades:
+* Chamar imagens a partir de caminhos e diretórios absolutos e relativos
+* Como riscar um texto usando html
+* Usar novas tags
+
+Facil:
+* Fazer o html de acordo com o exercício
+* Usar feedback do chrome para acompanhar os exercícios
+
+Dificil:
+*Entender como funciona e usar os caminhos relativos e absoluto
+
+Resolução de problemas:
+* Pesquisei na internet sobre o que eu não sabia 
+* Testei diversas formas de fazer uma única coisa
+* Pedi ajuda
+
+
